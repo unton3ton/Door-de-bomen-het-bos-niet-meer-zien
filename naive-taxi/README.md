@@ -1,3 +1,15 @@
+![](https://raw.githubusercontent.com/unton3ton/Door-de-bomen-het-bos-niet-meer-zien/main/naive-taxi/nytaxi.jpg)
+
+![](https://raw.githubusercontent.com/unton3ton/Door-de-bomen-het-bos-niet-meer-zien/main/naive-taxi/save%26load_models.PNG)
+
+![](https://raw.githubusercontent.com/unton3ton/Door-de-bomen-het-bos-niet-meer-zien/main/naive-taxi/calibration_curve_naive.png)
+
+![](https://raw.githubusercontent.com/unton3ton/Door-de-bomen-het-bos-niet-meer-zien/main/naive-taxi/calibration_curve_forest_isoreg_naive.png)
+
+![](https://raw.githubusercontent.com/unton3ton/Door-de-bomen-het-bos-niet-meer-zien/main/naive-taxi/Confusion_Space_Matrix_naive.png)
+
+![](https://raw.githubusercontent.com/unton3ton/Door-de-bomen-het-bos-niet-meer-zien/main/naive-taxi/ROC-taxi.png)
+
 # Sources
 
 * [Save classifier to disk in scikit-learn](https://stackoverflow.com/questions/10592605/save-classifier-to-disk-in-scikit-learn)
