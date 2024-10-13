@@ -1,0 +1,3024 @@
+learning_rate=1, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004086636476329426
+ECE + Isotonic Regression = 5.359384568663631e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=1, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.00308380246042817
+ECE + Isotonic Regression = 3.9030066810402757e-16
+Accuracy: 99.0223%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9902
+accuracy = 99.02%, balanced_accuracy = 99.02%, f1 = 99.03%
+
+learning_rate=1, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0031284463329826
+ECE + Isotonic Regression = 2.925975924781466e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.31%
+
+learning_rate=1, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.002875777474923392
+ECE + Isotonic Regression = 5.564295145066166e-16
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       715
+           1       0.98      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=1, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.005261963792746151
+ECE + Isotonic Regression = 7.186213139141464e-16
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=1, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.006735524017887
+ECE + Isotonic Regression = 1.1059958475515384e-15
+Accuracy: 98.8128%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9881
+accuracy = 98.81%, balanced_accuracy = 98.81%, f1 = 98.82%
+
+learning_rate=1, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0019050762115843415
+ECE + Isotonic Regression = 2.609334226032421e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=1, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.004026107943308887
+ECE + Isotonic Regression = 1.759998106286011e-15
+Accuracy: 98.9525%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9895
+accuracy = 98.95%, balanced_accuracy = 98.95%, f1 = 98.96%
+
+learning_rate=1, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.005543760300800651
+ECE + Isotonic Regression = 9.333584567665792e-16
+Accuracy: 98.8827%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9888
+accuracy = 98.88%, balanced_accuracy = 98.88%, f1 = 98.89%
+
+learning_rate=1, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.004324576839741463
+ECE + Isotonic Regression = 3.091365060623637e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.31%
+
+learning_rate=1, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0023782128593153253
+ECE + Isotonic Regression = 2.5088916773949357e-15
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=1, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004313997413246623
+ECE + Isotonic Regression = 3.4989358882212602e-15
+Accuracy: 98.9525%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9895
+accuracy = 98.95%, balanced_accuracy = 98.95%, f1 = 98.96%
+
+learning_rate=1, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0049264435097938035
+ECE + Isotonic Regression = 1.4542155402737614e-15
+Accuracy: 98.9525%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       715
+           1       0.98      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9895
+accuracy = 98.95%, balanced_accuracy = 98.95%, f1 = 98.96%
+
+learning_rate=1, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.006157505217276127
+ECE + Isotonic Regression = 1.5462730873610773e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.5, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.006962030112670652
+ECE + Isotonic Regression = 1.6746380818368284e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.5, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.004264783986385492
+ECE + Isotonic Regression = 1.11254891084993e-16
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.5, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.004026492169136983
+ECE + Isotonic Regression = 1.6127695082578566e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.5, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.003763094716763285
+ECE + Isotonic Regression = 2.2547916358361332e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.38%
+
+learning_rate=0.5, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0030126733826936272
+ECE + Isotonic Regression = 2.8635148256297376e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.31%
+
+learning_rate=0.5, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.002917386965429371
+ECE + Isotonic Regression = 4.283817248787598e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.5, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.00280988879094418
+ECE + Isotonic Regression = 1.985298951925725e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.31%
+
+learning_rate=0.5, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.005212374846215211
+ECE + Isotonic Regression = 2.285493334003142e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.5, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0038373074088455376
+ECE + Isotonic Regression = 6.781925203038182e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.5, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.003203078399614175
+ECE + Isotonic Regression = 1.5918365322348963e-15
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=0.5, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.004056314353519933
+ECE + Isotonic Regression = 4.47756357131122e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.5, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0037218493361361633
+ECE + Isotonic Regression = 9.357815577671536e-16
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.5, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.004676285871654761
+ECE + Isotonic Regression = 4.1983321473838794e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.38%
+
+learning_rate=0.5, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.005717499745454123
+ECE + Isotonic Regression = 1.0909181689595375e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.1, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.008544257267678736
+ECE + Isotonic Regression = 4.644174554545819e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.30%
+
+learning_rate=0.1, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.00644658261442685
+ECE + Isotonic Regression = 1.6630086507129614e-16
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.1, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0036365986781072834
+ECE + Isotonic Regression = 1.5929219458064571e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.38%
+
+learning_rate=0.1, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0021753738670542777
+ECE + Isotonic Regression = 2.77943403860418e-16
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.1, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0027506031434960964
+ECE + Isotonic Regression = 8.19312805061627e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.31%
+
+learning_rate=0.1, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0035754788965750195
+ECE + Isotonic Regression = 2.139117560924071e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.1, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004095203285874774
+ECE + Isotonic Regression = 6.284350755485588e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.1, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0030747925806452257
+ECE + Isotonic Regression = 3.903108438562609e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.31%
+
+learning_rate=0.1, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004195800863837401
+ECE + Isotonic Regression = 1.1001441843178053e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.1, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.003327252334163608
+ECE + Isotonic Regression = 4.447404579929991e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.1, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004190552056376763
+ECE + Isotonic Regression = 3.6586190315685155e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.23%
+
+learning_rate=0.1, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004192928647113415
+ECE + Isotonic Regression = 1.6661098323459926e-16
+Accuracy: 99.4413%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9944
+accuracy = 99.44%, balanced_accuracy = 99.44%, f1 = 99.44%
+
+learning_rate=0.1, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.00628923245805933
+ECE + Isotonic Regression = 4.13426276453467e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.30%
+
+learning_rate=0.1, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.005855168966947367
+ECE + Isotonic Regression = 5.377061303971909e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.05, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.008324388739911594
+ECE + Isotonic Regression = 6.4372777747644374e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.31%
+
+learning_rate=0.05, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.00544743214341514
+ECE + Isotonic Regression = 1.7136354408721952e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.05, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.005176942170378897
+ECE + Isotonic Regression = 1.8741991199223837e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.05, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.002996293576987414
+ECE + Isotonic Regression = 1.164106055499073e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.05, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.003793115406562814
+ECE + Isotonic Regression = 2.2184078703059478e-16
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.38%
+
+learning_rate=0.05, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004545293406002601
+ECE + Isotonic Regression = 2.5392475211259168e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.05, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0034052506133736868
+ECE + Isotonic Regression = 4.4287587253613914e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.30%
+
+learning_rate=0.05, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.003865952853248447
+ECE + Isotonic Regression = 2.2142436859842507e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.23%
+
+learning_rate=0.05, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0038476694205809327
+ECE + Isotonic Regression = 2.2049401410851574e-16
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.05, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004757127955045542
+ECE + Isotonic Regression = 7.135818937604708e-16
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.05, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0047204268859494915
+ECE + Isotonic Regression = 2.901000358619002e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.05, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.004586407074059935
+ECE + Isotonic Regression = 3.1508780687004877e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.30%
+
+learning_rate=0.05, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004140447692522558
+ECE + Isotonic Regression = 1.217834027291338e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.05, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0058493953006746435
+ECE + Isotonic Regression = 4.0466543834015394e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.01, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.014701763399468881
+ECE + Isotonic Regression = 6.229382311040111e-15
+Accuracy: 98.8827%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9888
+accuracy = 98.88%, balanced_accuracy = 98.88%, f1 = 98.89%
+
+learning_rate=0.01, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.007276699172375098
+ECE + Isotonic Regression = 9.30354489909349e-19
+Accuracy: 99.0223%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9902
+accuracy = 99.02%, balanced_accuracy = 99.02%, f1 = 99.03%
+
+learning_rate=0.01, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.005456631016407755
+ECE + Isotonic Regression = 3.8694993826146344e-16
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=0.01, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004202096839797083
+ECE + Isotonic Regression = 2.6053802194503064e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.01, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0030725846652574634
+ECE + Isotonic Regression = 3.3767216211259825e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.01, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004626922853652623
+ECE + Isotonic Regression = 5.7016774914094456e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.23%
+
+learning_rate=0.01, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.005028372603106782
+ECE + Isotonic Regression = 8.358769914590546e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.01, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0037206700497693186
+ECE + Isotonic Regression = 1.6606827644881881e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.01, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004510019750371676
+ECE + Isotonic Regression = 2.38085466921885e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.01, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.0035399820839807665
+ECE + Isotonic Regression = 2.736792791150002e-16
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.30%
+
+learning_rate=0.01, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004082432723250162
+ECE + Isotonic Regression = 2.7678046074803133e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.01, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.004575313233024784
+ECE + Isotonic Regression = 5.543362169043205e-16
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.30%
+
+learning_rate=0.01, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.005466942489879943
+ECE + Isotonic Regression = 3.0825745432329767e-15
+Accuracy: 99.3715%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9937
+accuracy = 99.37%, balanced_accuracy = 99.37%, f1 = 99.37%
+
+learning_rate=0.01, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.005310835887028101
+ECE + Isotonic Regression = 1.834426465478759e-15
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=0.005, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.06
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.029207548505477954
+ECE + Isotonic Regression = 1.1582525751667267e-15
+Accuracy: 98.6732%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9867
+accuracy = 98.67%, balanced_accuracy = 98.67%, f1 = 98.68%
+
+learning_rate=0.005, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.013439027772207299
+ECE + Isotonic Regression = 5.329070518200751e-15
+Accuracy: 98.9525%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9895
+accuracy = 98.95%, balanced_accuracy = 98.95%, f1 = 98.96%
+
+learning_rate=0.005, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.009858292228481055
+ECE + Isotonic Regression = 1.543884511234152e-15
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=0.005, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.00885303908604508
+ECE + Isotonic Regression = 3.876477041288954e-19
+Accuracy: 99.0223%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9902
+accuracy = 99.02%, balanced_accuracy = 99.02%, f1 = 99.03%
+
+learning_rate=0.005, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.007249578661325189
+ECE + Isotonic Regression = 3.980056507832195e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.005, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.0067544799617275525
+ECE + Isotonic Regression = 3.5378280069619512e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.005, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.007761295508148018
+ECE + Isotonic Regression = 3.155297252527557e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.005, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.00783564627421916
+ECE + Isotonic Regression = 6.753443242251965e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.005, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.006657665597114099
+ECE + Isotonic Regression = 5.867745767858265e-15
+Accuracy: 99.3017%
+Kappa = 0.99
+matthews_corrcoef = 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9930
+accuracy = 99.30%, balanced_accuracy = 99.30%, f1 = 99.30%
+
+learning_rate=0.005, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.007682544792401926
+ECE + Isotonic Regression = 7.473072440196847e-15
+Accuracy: 99.2318%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9923
+accuracy = 99.23%, balanced_accuracy = 99.23%, f1 = 99.24%
+
+learning_rate=0.005, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.03
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.009015146719513962
+ECE + Isotonic Regression = 4.926692201314958e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.005, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.01131967475806868
+ECE + Isotonic Regression = 1.6612254712739686e-15
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=0.005, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.012506578908664143
+ECE + Isotonic Regression = 3.1597164363546267e-15
+Accuracy: 99.1620%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9916
+accuracy = 99.16%, balanced_accuracy = 99.16%, f1 = 99.17%
+
+learning_rate=0.005, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.04
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.015191649669394586
+ECE + Isotonic Regression = 1.4967077856416652e-15
+Accuracy: 99.0922%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       715
+           1       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9909
+accuracy = 99.09%, balanced_accuracy = 99.09%, f1 = 99.10%
+
+learning_rate=0.001, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.32
+Eval Accuracy: 0.97
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.2366735441472267
+ECE + Isotonic Regression = 1.2429535985188903e-15
+Accuracy: 97.0670%
+Kappa = 0.94
+matthews_corrcoef = 0.94
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       715
+           1       0.97      0.97      0.97       717
+
+    accuracy                           0.97      1432
+   macro avg       0.97      0.97      0.97      1432
+weighted avg       0.97      0.97      0.97      1432
+
+ROC-AUC area = 0.9707
+accuracy = 97.07%, balanced_accuracy = 97.07%, f1 = 97.08%
+
+learning_rate=0.001, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.24
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.18684737849634714
+ECE + Isotonic Regression = 5.39907969356643e-15
+Accuracy: 97.7654%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98       715
+           1       0.96      1.00      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9776
+accuracy = 97.77%, balanced_accuracy = 97.76%, f1 = 97.81%
+
+learning_rate=0.001, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.22
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.17482034184854334
+ECE + Isotonic Regression = 2.3228503072655287e-15
+Accuracy: 98.3240%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9832
+accuracy = 98.32%, balanced_accuracy = 98.32%, f1 = 98.34%
+
+learning_rate=0.001, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.20
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.15903759016111108
+ECE + Isotonic Regression = 2.0784506952278987e-15
+Accuracy: 98.6034%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9860
+accuracy = 98.60%, balanced_accuracy = 98.60%, f1 = 98.61%
+
+learning_rate=0.001, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.19
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.14645159542478442
+ECE + Isotonic Regression = 1.5016502938693087e-15
+Accuracy: 98.6732%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9867
+accuracy = 98.67%, balanced_accuracy = 98.67%, f1 = 98.68%
+
+learning_rate=0.001, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.18
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.14223942516784666
+ECE + Isotonic Regression = 9.351669241612712e-16
+Accuracy: 98.6732%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9867
+accuracy = 98.67%, balanced_accuracy = 98.67%, f1 = 98.68%
+
+learning_rate=0.001, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.17
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.13643445979276847
+ECE + Isotonic Regression = 7.146458049984432e-16
+Accuracy: 98.7430%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9874
+accuracy = 98.74%, balanced_accuracy = 98.74%, f1 = 98.75%
+
+learning_rate=0.001, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.18
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.1379366106107633
+ECE + Isotonic Regression = 2.4650311567713642e-15
+Accuracy: 98.6732%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9867
+accuracy = 98.67%, balanced_accuracy = 98.67%, f1 = 98.68%
+
+learning_rate=0.001, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.17
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.135851815578776
+ECE + Isotonic Regression = 2.3437463356166894e-15
+Accuracy: 98.8128%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9881
+accuracy = 98.81%, balanced_accuracy = 98.81%, f1 = 98.82%
+
+learning_rate=0.001, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.16
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.12868428733100323
+ECE + Isotonic Regression = 2.473580000046482e-15
+Accuracy: 98.8827%
+Kappa = 0.98
+matthews_corrcoef = 0.98
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       715
+           1       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9888
+accuracy = 98.88%, balanced_accuracy = 98.88%, f1 = 98.89%
+
+learning_rate=0.001, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.18
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.13958309973251903
+ECE + Isotonic Regression = 2.761214596510122e-15
+Accuracy: 98.7430%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9874
+accuracy = 98.74%, balanced_accuracy = 98.74%, f1 = 98.75%
+
+learning_rate=0.001, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.18
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.13768242285686774
+ECE + Isotonic Regression = 4.736751791836482e-15
+Accuracy: 98.7430%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9874
+accuracy = 98.74%, balanced_accuracy = 98.74%, f1 = 98.75%
+
+learning_rate=0.001, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.18
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.14071551483422262
+ECE + Isotonic Regression = 5.5418630626873935e-17
+Accuracy: 98.7430%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9874
+accuracy = 98.74%, balanced_accuracy = 98.74%, f1 = 98.75%
+
+learning_rate=0.001, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.18
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.13916413308620662
+ECE + Isotonic Regression = 3.900567529001952e-15
+Accuracy: 98.7430%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9874
+accuracy = 98.74%, balanced_accuracy = 98.74%, f1 = 98.75%
+
+learning_rate=0.0005, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.46
+Eval Accuracy: 0.94
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.3344143044179639
+ECE + Isotonic Regression = 2.3066588986485796e-15
+Accuracy: 94.4134%
+Kappa = 0.89
+matthews_corrcoef = 0.89
+              precision    recall  f1-score   support
+
+           0       0.93      0.97      0.95       715
+           1       0.96      0.92      0.94       717
+
+    accuracy                           0.94      1432
+   macro avg       0.94      0.94      0.94      1432
+weighted avg       0.94      0.94      0.94      1432
+
+ROC-AUC area = 0.9442
+accuracy = 94.41%, balanced_accuracy = 94.42%, f1 = 94.30%
+
+learning_rate=0.0005, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.39
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.2893113557940369
+ECE + Isotonic Regression = 1.9067058027117423e-16
+Accuracy: 97.9050%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9790
+accuracy = 97.91%, balanced_accuracy = 97.90%, f1 = 97.92%
+
+learning_rate=0.0005, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.37
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.2792804530434035
+ECE + Isotonic Regression = 7.922768004967873e-16
+Accuracy: 97.9749%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9797
+accuracy = 97.97%, balanced_accuracy = 97.97%, f1 = 97.99%
+
+learning_rate=0.0005, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.35
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.2711352877693548
+ECE + Isotonic Regression = 1.4008667363920975e-15
+Accuracy: 98.1145%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9811
+accuracy = 98.11%, balanced_accuracy = 98.11%, f1 = 98.13%
+
+learning_rate=0.0005, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.33
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.2598433128263684
+ECE + Isotonic Regression = 2.263451927826188e-15
+Accuracy: 98.6732%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9867
+accuracy = 98.67%, balanced_accuracy = 98.67%, f1 = 98.69%
+
+learning_rate=0.0005, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.33
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.261990270644997
+ECE + Isotonic Regression = 2.7699851258160385e-16
+Accuracy: 98.1844%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9818
+accuracy = 98.18%, balanced_accuracy = 98.18%, f1 = 98.20%
+
+learning_rate=0.0005, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.33
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.2542380994447542
+ECE + Isotonic Regression = 2.7649723564420216e-15
+Accuracy: 98.1844%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9818
+accuracy = 98.18%, balanced_accuracy = 98.18%, f1 = 98.20%
+
+learning_rate=0.0005, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.32
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.25171959963861884
+ECE + Isotonic Regression = 2.4533986971498087e-15
+Accuracy: 98.5335%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9853
+accuracy = 98.53%, balanced_accuracy = 98.53%, f1 = 98.55%
+
+learning_rate=0.0005, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.32
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.2537426650785172
+ECE + Isotonic Regression = 2.0727565138739677e-15
+Accuracy: 98.6034%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9860
+accuracy = 98.60%, balanced_accuracy = 98.60%, f1 = 98.61%
+
+learning_rate=0.0005, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.32
+Eval Accuracy: 0.99
+AUC-PR: 1.00
+AUC-ROC: 1.00
+ECE = 0.2542070333023924
+ECE + Isotonic Regression = 3.683273425551113e-15
+Accuracy: 98.6732%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9867
+accuracy = 98.67%, balanced_accuracy = 98.67%, f1 = 98.68%
+
+learning_rate=0.0005, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.32
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.2528510734616556
+ECE + Isotonic Regression = 3.821188787487571e-16
+Accuracy: 98.6034%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9860
+accuracy = 98.60%, balanced_accuracy = 98.60%, f1 = 98.61%
+
+learning_rate=0.0005, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.33
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.25693902835979443
+ECE + Isotonic Regression = 2.9829545345676897e-15
+Accuracy: 98.6034%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9860
+accuracy = 98.60%, balanced_accuracy = 98.60%, f1 = 98.61%
+
+learning_rate=0.0005, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.32
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.25662123058998987
+ECE + Isotonic Regression = 4.531677373709001e-15
+Accuracy: 98.6034%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9860
+accuracy = 98.60%, balanced_accuracy = 98.60%, f1 = 98.61%
+
+learning_rate=0.0005, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.32
+Eval Accuracy: 0.99
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.2560439639219462
+ECE + Isotonic Regression = 1.5403072497644874e-15
+Accuracy: 98.6034%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       715
+           1       0.98      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.9860
+accuracy = 98.60%, balanced_accuracy = 98.60%, f1 = 98.61%
+
+learning_rate=0.0001, depth=1
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.63
+Eval Accuracy: 0.94
+AUC-PR: 0.97
+AUC-ROC: 0.95
+ECE = 0.4154670157340351
+ECE + Isotonic Regression = 2.6170290329593794e-15
+Accuracy: 94.4134%
+Kappa = 0.89
+matthews_corrcoef = 0.89
+              precision    recall  f1-score   support
+
+           0       0.93      0.97      0.95       715
+           1       0.96      0.92      0.94       717
+
+    accuracy                           0.94      1432
+   macro avg       0.94      0.94      0.94      1432
+weighted avg       0.94      0.94      0.94      1432
+
+ROC-AUC area = 0.9442
+accuracy = 94.41%, balanced_accuracy = 94.42%, f1 = 94.30%
+
+learning_rate=0.0001, depth=2
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.61
+Eval Accuracy: 0.97
+AUC-PR: 0.98
+AUC-ROC: 0.99
+ECE = 0.43077644534624526
+ECE + Isotonic Regression = 1.8340824281413447e-16
+Accuracy: 97.2765%
+Kappa = 0.95
+matthews_corrcoef = 0.95
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97       715
+           1       0.96      0.98      0.97       717
+
+    accuracy                           0.97      1432
+   macro avg       0.97      0.97      0.97      1432
+weighted avg       0.97      0.97      0.97      1432
+
+ROC-AUC area = 0.9728
+accuracy = 97.28%, balanced_accuracy = 97.28%, f1 = 97.30%
+
+learning_rate=0.0001, depth=3
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.61
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.4326633648928915
+ECE + Isotonic Regression = 2.932386497263613e-15
+Accuracy: 97.9050%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9790
+accuracy = 97.91%, balanced_accuracy = 97.90%, f1 = 97.92%
+
+learning_rate=0.0001, depth=4
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.60
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.4304071565452851
+ECE + Isotonic Regression = 8.512331706984907e-16
+Accuracy: 98.1145%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9811
+accuracy = 98.11%, balanced_accuracy = 98.11%, f1 = 98.13%
+
+learning_rate=0.0001, depth=5
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.60
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.42841149310397564
+ECE + Isotonic Regression = 9.506381560278936e-16
+Accuracy: 98.1145%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9811
+accuracy = 98.11%, balanced_accuracy = 98.11%, f1 = 98.13%
+
+learning_rate=0.0001, depth=6
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.42797872673706877
+ECE + Isotonic Regression = 2.124578954920624e-15
+Accuracy: 98.1145%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9811
+accuracy = 98.11%, balanced_accuracy = 98.11%, f1 = 98.13%
+
+learning_rate=0.0001, depth=7
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 0.99
+ECE = 0.42711803677069793
+ECE + Isotonic Regression = 2.3449173042479504e-15
+Accuracy: 98.1844%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9818
+accuracy = 98.18%, balanced_accuracy = 98.18%, f1 = 98.20%
+
+learning_rate=0.0001, depth=8
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.426751677414024
+ECE + Isotonic Regression = 7.134631766510812e-16
+Accuracy: 98.1145%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9811
+accuracy = 98.11%, balanced_accuracy = 98.11%, f1 = 98.13%
+
+learning_rate=0.0001, depth=9
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.4269325895761913
+ECE + Isotonic Regression = 3.045857037257518e-15
+Accuracy: 98.1844%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9818
+accuracy = 98.18%, balanced_accuracy = 98.18%, f1 = 98.20%
+
+learning_rate=0.0001, depth=10
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.4272272714515669
+ECE + Isotonic Regression = 2.7034453974023136e-15
+Accuracy: 98.1844%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9818
+accuracy = 98.18%, balanced_accuracy = 98.18%, f1 = 98.20%
+
+learning_rate=0.0001, depth=11
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.4277211803355356
+ECE + Isotonic Regression = 2.241597077106846e-16
+Accuracy: 98.2542%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9825
+accuracy = 98.25%, balanced_accuracy = 98.25%, f1 = 98.27%
+
+learning_rate=0.0001, depth=12
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.42770623289173265
+ECE + Isotonic Regression = 3.328197819761648e-16
+Accuracy: 98.1844%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9818
+accuracy = 98.18%, balanced_accuracy = 98.18%, f1 = 98.20%
+
+learning_rate=0.0001, depth=13
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.4290569785680913
+ECE + Isotonic Regression = 4.19979703171581e-15
+Accuracy: 98.1844%
+Kappa = 0.96
+matthews_corrcoef = 0.96
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9818
+accuracy = 98.18%, balanced_accuracy = 98.18%, f1 = 98.20%
+
+learning_rate=0.0001, depth=14
+
+class_weights = [1, 1.000698804855347]
+Log Loss (Cross-Entropy): 0.59
+Eval Accuracy: 0.98
+AUC-PR: 0.99
+AUC-ROC: 1.00
+ECE = 0.42868028985906675
+ECE + Isotonic Regression = 1.982866462582316e-15
+Accuracy: 98.3240%
+Kappa = 0.97
+matthews_corrcoef = 0.97
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       715
+           1       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.9832
+accuracy = 98.32%, balanced_accuracy = 98.32%, f1 = 98.34%
+

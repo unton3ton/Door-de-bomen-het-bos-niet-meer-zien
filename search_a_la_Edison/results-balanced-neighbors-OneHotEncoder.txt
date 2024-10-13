@@ -1,0 +1,288 @@
+Model number: 0
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      0.99      0.99       715
+         1.0       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.44%, 			balanced_accuracy = 99.44%, 			f1 = 99.44%
+
+
+Model number: 1
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      0.99      0.99       715
+         1.0       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.44%, 			balanced_accuracy = 99.44%, 			f1 = 99.44%
+
+
+Model number: 2
+Kappa = 0.98
+matthews_corrcoef = 0.98              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       715
+         1.0       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.16%, 			balanced_accuracy = 99.16%, 			f1 = 99.16%
+
+
+Model number: 3
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      0.99      1.00       715
+         1.0       0.99      1.00      1.00       717
+
+    accuracy                           1.00      1432
+   macro avg       1.00      1.00      1.00      1432
+weighted avg       1.00      1.00      1.00      1432
+
+ROC-AUC area = 1.00
+
+accuracy = 99.58%, 			balanced_accuracy = 99.58%, 			f1 = 99.58%
+
+
+Model number: 4
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00       715
+         1.0       1.00      1.00      1.00       717
+
+    accuracy                           1.00      1432
+   macro avg       1.00      1.00      1.00      1432
+weighted avg       1.00      1.00      1.00      1432
+
+ROC-AUC area = 1.00
+
+accuracy = 99.72%, 			balanced_accuracy = 99.72%, 			f1 = 99.72%
+
+
+Model number: 5
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      0.99      0.99       715
+         1.0       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.44%, 			balanced_accuracy = 99.44%, 			f1 = 99.44%
+
+
+Model number: 6
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      0.99      0.99       715
+         1.0       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.30%, 			balanced_accuracy = 99.30%, 			f1 = 99.30%
+
+
+Model number: 7
+Kappa = 0.98
+matthews_corrcoef = 0.98              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       715
+         1.0       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.02%, 			balanced_accuracy = 99.02%, 			f1 = 99.03%
+
+
+Model number: 8
+Kappa = 0.98
+matthews_corrcoef = 0.98              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      0.99       715
+         1.0       1.00      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.23%, 			balanced_accuracy = 99.23%, 			f1 = 99.23%
+
+
+Model number: 9
+Kappa = 0.97
+matthews_corrcoef = 0.97              precision    recall  f1-score   support
+
+         0.0       1.00      0.98      0.99       715
+         1.0       0.98      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 98.67%, 			balanced_accuracy = 98.67%, 			f1 = 98.69%
+
+
+Model number: 10
+Kappa = 0.98
+matthews_corrcoef = 0.98              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       715
+         1.0       0.99      0.99      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 98.88%, 			balanced_accuracy = 98.88%, 			f1 = 98.88%
+
+
+Model number: 11
+Kappa = 0.93
+matthews_corrcoef = 0.93              precision    recall  f1-score   support
+
+         0.0       1.00      0.93      0.96       715
+         1.0       0.94      1.00      0.97       717
+
+    accuracy                           0.97      1432
+   macro avg       0.97      0.97      0.97      1432
+weighted avg       0.97      0.97      0.97      1432
+
+ROC-AUC area = 0.97
+
+accuracy = 96.51%, 			balanced_accuracy = 96.50%, 			f1 = 96.62%
+
+
+Model number: 12
+Kappa = 0.93
+matthews_corrcoef = 0.93              precision    recall  f1-score   support
+
+         0.0       0.99      0.94      0.96       715
+         1.0       0.94      0.99      0.96       717
+
+    accuracy                           0.96      1432
+   macro avg       0.96      0.96      0.96      1432
+weighted avg       0.96      0.96      0.96      1432
+
+ROC-AUC area = 0.96
+
+accuracy = 96.37%, 			balanced_accuracy = 96.37%, 			f1 = 96.45%
+
+
+Model number: 13
+Kappa = 0.96
+matthews_corrcoef = 0.96              precision    recall  f1-score   support
+
+         0.0       0.99      0.97      0.98       715
+         1.0       0.97      0.99      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.98
+
+accuracy = 98.04%, 			balanced_accuracy = 98.04%, 			f1 = 98.07%
+
+
+Model number: 14
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      0.99      0.99       715
+         1.0       0.99      1.00      0.99       717
+
+    accuracy                           0.99      1432
+   macro avg       0.99      0.99      0.99      1432
+weighted avg       0.99      0.99      0.99      1432
+
+ROC-AUC area = 0.99
+
+accuracy = 99.44%, 			balanced_accuracy = 99.44%, 			f1 = 99.44%
+
+
+Model number: 15
+Kappa = 0.99
+matthews_corrcoef = 0.99              precision    recall  f1-score   support
+
+         0.0       1.00      0.99      1.00       715
+         1.0       0.99      1.00      1.00       717
+
+    accuracy                           1.00      1432
+   macro avg       1.00      1.00      1.00      1432
+weighted avg       1.00      1.00      1.00      1432
+
+ROC-AUC area = 1.00
+
+accuracy = 99.51%, 			balanced_accuracy = 99.51%, 			f1 = 99.51%
+
+
+Model number: 16
+Kappa = 0.97
+matthews_corrcoef = 0.97              precision    recall  f1-score   support
+
+         0.0       1.00      0.97      0.98       715
+         1.0       0.97      1.00      0.98       717
+
+    accuracy                           0.98      1432
+   macro avg       0.98      0.98      0.98      1432
+weighted avg       0.98      0.98      0.98      1432
+
+ROC-AUC area = 0.98
+
+accuracy = 98.32%, 			balanced_accuracy = 98.32%, 			f1 = 98.35%
+
+
+Model number: 17
+Kappa = 0.91
+matthews_corrcoef = 0.91              precision    recall  f1-score   support
+
+         0.0       1.00      0.90      0.95       715
+         1.0       0.91      1.00      0.95       717
+
+    accuracy                           0.95      1432
+   macro avg       0.96      0.95      0.95      1432
+weighted avg       0.96      0.95      0.95      1432
+
+ROC-AUC area = 0.95
+
+accuracy = 95.25%, 			balanced_accuracy = 95.24%, 			f1 = 95.47%
+
+
